@@ -1,0 +1,22 @@
+"Comment","Designator","Footprint","Desc","LCSC","Mfr","MfrPN","Link"
+"10u","C2","Capacitor_SMD:C_0603_1608Metric","10uF ±10% 10V X5R","C19702","Samsung Electro-Mechanics","CL10A106KP8NNNC",
+"12p","C3,C4","Capacitor_SMD:C_0603_1608Metric","12pF ±5% 50V C0G 0603","C38523","Samsung Electro-Mechanics","CL10C120JB8NNNC",
+"1u","C5","Capacitor_SMD:C_0603_1608Metric","1uF ±10% 50V X5R 0603","C15849","Samsung Electro-Mechanics","CL10A105KB8NNNC",
+"100n","C6,C7,C8,C1","Capacitor_SMD:C_0603_1608Metric","100nF ±10% 50V X7R 0603 ","C14663","YAGEO","CC0603KRX7R9BB104",
+"22u","C9,C10,C11","Capacitor_SMD:C_0603_1608Metric","22uF ±20% 6.3V X5R 0603","C59461","Samsung Electro-Mechanics","CL10A226MQ8NRNC",
+"BAV99","D1","Package_TO_SOT_SMD:SOT-23","Switching Diode 100V 125mA 1.25V @ 150mA 4ns SOT-23(SOT-23-3)","C2500","Nexperia","BAV99,215",
+"Red","D2","LED_SMD:LED_0603_1608Metric_Castellated","Light Emitting Diodes (LED) Red 520~625nm 90~100mcd@20mA Top View 0603","C2286","Hubei KENTO Elec","KT-0603R",
+"MountingHoleNorth","H1","MountingHole:MountingHole_2.2mm_M2",,,,,
+"MountingHoleSouth","H2","MountingHole:MountingHole_2.2mm_M2",,,,,
+"AlignmentHole","H3","MountingHole:MountingHole_2.7mm",,,,,
+"10103594-0001LF","J1","Connector_USB:USB_Micro-B_Molex-105017-0001","CONN RCPT USB2.0 MICRO B SMD R/A",,"Molex",1050170001,"https://www.digikey.com/en/products/detail/molex/1050170001/2350885"
+"AVR-ISP-6 - NOT FITTED","J2","Connector_IDC:IDC-Header_2x03_P2.54mm_Horizontal",,,,,
+"FFC3B07-30-T","J3","Connector_FFC-FPC:TE_3-84952-0_1x30-1MP_P1.0mm_Horizontal","CONN FPC BOTTOM 30POS 1.00MM R/A",,"TE Connectivity AMP Connectors","3-84952-0","https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/3-84952-0/2180597"
+"100","R1","Resistor_SMD:R_0603_1608Metric","100Ω ±1% 1/10W ±200ppm/°C 0603","C22775","UNI-ROYAL(Uniroyal Elec)","0603WAF1000T5E",
+"22","R2,R3","Resistor_SMD:R_0402_1005Metric","22Ω ±1% 1/16W ±200ppm/℃ 0402","C25092","UNI-ROYAL(Uniroyal Elec)","0402WGF220JTCE",
+"470k","R4","Resistor_SMD:R_0603_1608Metric","470kΩ ±1% 0.1W ±100ppm/℃ 0603","C23178","UNI-ROYAL(Uniroyal Elec)","0603WAF4703T5E",
+"680","R5,R6","Resistor_SMD:R_0603_1608Metric","680Ω ±1% 0.1W ±100ppm/℃ 0603","C23228","UNI-ROYAL(Uniroyal Elec)","0603WAF6800T5E",
+"MJTP1117","SW1","kmj_custom:SW_Tactile_SPST_Angled_MJTP1117","SWITCH TACTILE SPST-NO 0.05A 12V",,"APEM Inc. ","MJTP1117 ","https://www.digikey.com/en/products/detail/apem-inc/MJTP1117/1795496"
+"SRV05-4-P-T7","U1","Package_TO_SOT_SMD:SOT-23-6","TVS SOT-23-6","C85364","ProTek Devices","SRV05-4-P-T7",
+"AT90USB1286-AU","U2","Package_QFP:TQFP-64_14x14mm_P0.8mm","TQFP-64 MCU","C619147","Microchip Tech","AT90USB1286-AU",
+"16M","Y1","Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm","SMD Crystal Resonators 16MHz ±10ppm SMD-3225_4P","C13738","Yangxing Tech","X322516MLB4SI",

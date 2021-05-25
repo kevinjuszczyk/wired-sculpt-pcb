@@ -1,0 +1,13 @@
+05-25 05:39:15 archive_project.action_archive_project 108:Plugin executed on: 'win32'
+05-25 05:39:15 archive_project.action_archive_project 109:Plugin executed with python version: '2.7.18 (default, Apr 20 2020, 16:57:11)  [GCC 9.3.0 64 bit (AMD64)]'
+05-25 05:39:15 archive_project.action_archive_project 110:KiCad build version: (5.1.9)-1
+05-25 05:39:15 archive_project.action_archive_project 111:Archive plugin version: 48 started
+05-25 05:39:22 archive_project.action_archive_project 167:Starting archiving only schematics
+05-25 05:39:22 archive_project.archive_project 199:Starting to archive symbols
+05-25 05:39:22 archive_project.archive_project 206:Pcb filename:C:/Users/kmj/Documents/GitHub/wired-sculpt-pcb - Copy/wired-sculpt.kicad_pcb
+05-25 05:39:22 archive_project.archive_project 218:Kicad config path: C:\Users\kmj\AppData\Roaming\kicad
+05-25 05:39:22 archive_project.archive_project 278:project-archive.lib is already in the sym-lib-table, using its nickname
+05-25 05:39:22 archive_project.archive_project 380:found all subsheets
+05-25 05:39:22 archive_project.archive_project 389:Archiving file: C:\Users\kmj\Documents\GitHub\wired-sculpt-pcb - Copy\wired-sculpt.sch
+05-25 05:39:24 archive_project.action_archive_project 175:Action plugin exiting due to error in schematics archiving part
+05-25 05:39:24 archive_project.archive_project 139:Starting to archive worksheets
